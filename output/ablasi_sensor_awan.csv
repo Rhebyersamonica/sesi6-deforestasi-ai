@@ -1,0 +1,7 @@
+sensor,kondisi uji,accuracy,macro_F1
+Radar saja (S1),tanpa awan,0.728,0.697
+Radar saja (S1),berawan,0.719,0.682
+Optik saja (S2),tanpa awan,0.938,0.927
+Optik saja (S2),berawan,0.439,0.332
+Radar + optik (S1+S2),tanpa awan,0.932,0.924
+Radar + optik (S1+S2),berawan,0.716,0.69

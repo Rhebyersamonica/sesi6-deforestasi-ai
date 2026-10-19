@@ -1,0 +1,4 @@
+model,accuracy,macro_F1
+Baseline (tebak mayoritas),0.28,0.062
+Random Forest (fitur buatan),0.852,0.84
+CNN mini (citra 6 pita),0.75,0.747
